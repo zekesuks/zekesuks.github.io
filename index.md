@@ -4,7 +4,7 @@ This is my home page! My name is Ezekiel Medina and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/your_username.
+My GitHub page is http://github.com/zekesuks.
 
 ### CPSC 120
 
